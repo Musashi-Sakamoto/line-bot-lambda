@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "@line/bot-sdk": "^6.0.2"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.252.1"
   }
 }
